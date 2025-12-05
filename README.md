@@ -36,3 +36,15 @@
 - [Zeek Cheatsheet](https://corelight.com/hubfs/resources/zeek-cheatsheets/corelight-cheatsheet-poster.pdf)
 - [SMB Actions](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-smb2/b1b7cc8a-4d24-4701-bc3f-220b543ceef8#gt_a49a79ea-dac7-4016-9a84-cf87161db7e3)
 - [Zui (Zeek GUI)](https://www.brimdata.io/download/)
+
+## Malware
+
+- [Analyzing Malicious Documents Cheat Sheet](https://zeltser.com/analyzing-malicious-documents/)
+- [Any Run](https://any.run/)
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Awesome YARA](https://github.com/InQuest/awesome-yara)
+- [Free Automated Malware Analysis Service](https://hybrid-analysis.com/)
+- [MalAPI.io](https://malapi.io/)
+- [Virustotal](https://www.virustotal.com/gui/home/upload)
+- [YARA Github](https://github.com/VirusTotal/yara)
+- [YARA Toolkit](https://yaratoolkit.securitybreak.io/)
