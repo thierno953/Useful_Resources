@@ -64,3 +64,14 @@
 - [Enable PowerShell Logging](https://cloud.google.com/blog/topics/threat-intelligence/greater-visibility/)
 - [Logon Types](https://cybersafe.co.il/wp-content/uploads/2021/11/LOGON-types-compressed_compressed.pdf)
 - [Windows RDP-Related Event Logs: Identification, Tracking, and Investigation](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/)
+
+## Threat Hunting
+
+- [Awesome Threat Hunting](https://github.com/0x4D31/awesome-threat-detection)
+- [Global Threat Report](https://www.crowdstrike.com/en-us/global-threat-report/)
+- [M-Trends](https://cloud.google.com/security/resources)
+- [Microsoft Threat Intelligence](https://www.microsoft.com/en-us/security/blog/content-type/research/topic/threat-intelligence/?sort-by=newest-oldest&date=any&s=)
+- [sigconverter.io](https://sigconverter.io/)
+- [Sigma Github](https://github.com/SigmaHQ/sigma)
+- [Talos Blogs || Cisco Talos Intelligence Group](https://blog.talosintelligence.com/)
+- [Threat Detection Reports](https://redcanary.com/resources-center/)
