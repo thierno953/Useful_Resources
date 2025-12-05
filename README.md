@@ -13,3 +13,14 @@
 - [Microsoft Azure](https://azure.microsoft.com/en-ca)
 - [Vultr](https://www.vultr.com/)
 - [Microsoft Portals](https://msportals.io/)
+
+# Email
+
+- [Awesome Email](https://github.com/Mindbaz/awesome-opensource-email)
+- [Email Header Analyzer](https://github.com/cyberdefenders/email-header-analyzer)
+- [EML Analyzer](https://github.com/wahlflo/eml_analyzer)
+- [MXtoolbox](https://mxtoolbox.com/)
+- [Sublime Security](https://analyzer.sublime.security/)
+- [ThePhish Analysis Tool](https://github.com/emalderson/ThePhish)
+- [Trace Email Online](https://dnschecker.org/email-header-analyzer.php)
+- [Emailrep.io](https://emailrep.io/)
