@@ -48,3 +48,19 @@
 - [Virustotal](https://www.virustotal.com/gui/home/upload)
 - [YARA Github](https://github.com/VirusTotal/yara)
 - [YARA Toolkit](https://yaratoolkit.securitybreak.io/)
+
+## Endpoint
+
+[Antivirus Event Analysis Cheat Sheet v1.12.0](https://www.nextron-systems.com/2023/01/20/antivirus-event-analysis-cheat-sheet-v1-12-0/)
+[Evasion techniques](https://evasions.checkpoint.com/)
+[GTFOBins](https://gtfobins.github.io/)
+[LOLBAS](https://lolbas-project.github.io/#)
+[LOLDrives](https://www.loldrivers.io/)
+[Microsoft Defender Antivirus event IDs and error codes](https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide)
+[Sysmon Events](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+[Windows Audit Settings](https://github.com/Yamato-Security/EnableWindowsLogSettings)
+[Windows Security Log Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx?i=j)
+[WTFBins](https://wtfbins.wtf/)
+[Enable PowerShell Logging](https://cloud.google.com/blog/topics/threat-intelligence/greater-visibility/)
+[Logon Types](https://cybersafe.co.il/wp-content/uploads/2021/11/LOGON-types-compressed_compressed.pdf)
+[Windows RDP-Related Event Logs: Identification, Tracking, and Investigation](https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/)
