@@ -76,6 +76,28 @@
 - [Talos Blogs || Cisco Talos Intelligence Group](https://blog.talosintelligence.com/)
 - [Threat Detection Reports](https://redcanary.com/resources-center/)
 
+## OSINT Resources
+
+- [AbuseIPDB](https://www.abuseipdb.com/)
+- [AlienVault](https://otx.alienvault.com/browse/global/pulses?sort=-modified&page=1&include_inactive=0&limit=10)
+- [Browserling](https://www.browserling.com/)
+- [Censys](https://censys.com/)
+- [CRT](https://crt.sh/)
+- [Cyber Threat Intelligence](https://pulsedive.com/)
+- [dnstwist](https://dnstwist.it/)
+- [Hurricane Electric BGP Toolkit](https://bgp.he.net/)
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
+- [IPinfo](https://ipinfo.io/)
+- [Shodan](https://www.shodan.io/)
+- [ThreatMiner](https://www.threatminer.org/)
+- [URL and website scanner](https://urlscan.io/)
+- [URLVoid](https://www.urlvoid.com/)
+- [User Agents](https://developers.whatismybrowser.com/useragents/?utm_source=whatismybrowsercom&utm_medium=internal&utm_campaign=breadcrumbs)
+- [Wannabrowser](https://www.wannabrowser.net/)
+- [Whois. DomainTools](https://whois.domaintools.com/)
+- [IP Address Blacklist Check, IP DNSBL Check](https://www.ipvoid.com/ip-blacklist-check/)
+- [Online nsLookup - Find DNS records](https://www.nslookup.io/)
+
 ## Misc
 
 - [Awesome Security](https://github.com/sbilly/awesome-security)
